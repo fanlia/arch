@@ -7,6 +7,7 @@ post installation after archinstall
 sudo pacman -S wqy-microhei noto-fonts-cjk noto-fonts-emoji ttf-noto-nerd
 sudo pacman -S fcitx5-im fcitx5-chinese-addons fcitx5-pinyin-zhwiki
 sudo pacman -S zsh zsh-autosuggestions zsh-syntax-highlighting zsh-theme-powerlevel10k
+sudo pacman -S sof-firmware
 ```
 
 ```sh
